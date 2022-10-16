@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>The Blog</title>
+        <title>Design</title>
       </Head>
       <Format>
         <MainContainer />

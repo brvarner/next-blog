@@ -4,6 +4,7 @@ import Fetcher from "../../lib/Fetcher";
 import { Error, Spinner } from "../../components/children";
 import { useRouter } from "next/router";
 import { SWRConfig } from "swr";
+import Head from "next/head";
 
 // We use the SWRConfig to cache the data
 export default function Page({ fallback }) {
@@ -15,9 +16,14 @@ export default function Page({ fallback }) {
   if (isError) return <Error />;
 
   return (
-    <SWRConfig value={{ fallback }}>
-      <Article {...data} />
-    </SWRConfig>
+    <>
+      <Head>
+        <title>Design</title>
+      </Head>
+      <SWRConfig value={{ fallback }}>
+        <Article {...data} />
+      </SWRConfig>
+    </>
   );
 }
 
