@@ -10,7 +10,7 @@ export default function PopularPost({ post }) {
       <div className="images">
         <Link href={`/posts/${id}`}>
           <a>
-            <Image src={image} width={600} height={400} />
+            <Image src={image} width={600} height={400} alt="Author Image"/>
           </a>
         </Link>
       </div>

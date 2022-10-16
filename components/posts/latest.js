@@ -9,7 +9,7 @@ export default function LatestPost({ post }) {
       <div className="images">
         <Link href={`/posts/${id}`}>
           <a>
-            <Image className="rounded" src={image} width={500} height={350} />
+            <Image className="rounded" src={image} width={500} height={350} alt="Author Image"/>
           </a>
         </Link>
       </div>

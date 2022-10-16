@@ -21,6 +21,7 @@ export default function RelatedPost() {
               className="rounded"
               width={300}
               height={200}
+              alt="Author Image"
             />
           </a>
         </Link>

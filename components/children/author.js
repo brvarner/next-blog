@@ -3,7 +3,7 @@ import Link from "next/link";
 import Fetcher from "../../lib/Fetcher";
 import { Spinner, Error } from "../children";
 
-// This function adds a little variety to the articles by matching them with one of 
+// This function adds a little variety to the articles by matching them with one of
 // five fictional authors. Could tie authors to specific posts, but it's a little
 // beyond the scope of this project.
 export default function Author() {
@@ -16,7 +16,13 @@ export default function Author() {
 
   return (
     <div className="author flex py-5">
-      <Image src={data.image} className="rounded-full" width={60} height={60} />
+      <Image
+        alt="Author Image"
+        src={data.image}
+        className="rounded-full"
+        width={60}
+        height={60}
+      />
       <div className="flex flex-col justify-center px-4">
         <Link href={"/"}>
           <a className="text-md font-bold text-gray-800 hover:text-gray-600">

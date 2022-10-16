@@ -6,7 +6,7 @@ export default function Error() {
       <h1 className="text-3xl font-bold text-orange-600 py-10">
         Something Went Wrong
       </h1>
-      <Image src={"/assets/images/not_found.png"} width={400} height={400} />
+      <Image src={"/assets/images/not_found.png"} alt="Error Image" width={400} height={400} />
     </div>
   );
 }

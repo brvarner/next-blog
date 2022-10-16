@@ -10,7 +10,7 @@ export default function TrendingPost({ post }) {
       <div className="image">
         <Link href={`/posts/${id}`}>
           <a>
-            <Image src={image} width={600} height={600} />
+            <Image src={image} width={600} height={600} alt="Author Image" />
           </a>
         </Link>
       </div>

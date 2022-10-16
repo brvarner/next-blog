@@ -10,7 +10,7 @@ export default function CatPost({ post }) {
       <div className="image flex flex-col justify-start">
         <Link href={`/posts/${id}`}>
           <a>
-            <Image src={image} className="rounded" width={300} height={250} />
+            <Image src={image} className="rounded" width={300} height={250} alt="Author Image"/>
           </a>
         </Link>
       </div>
