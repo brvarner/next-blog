@@ -1,6 +1,6 @@
 import { PageContainer } from "../../containers";
 import getPost from "../../lib/helper";
-import Fetcher from "../../lib/fetcher";
+import Fetcher from "../../lib/Fetcher";
 import { Error, Spinner } from "../../components/children";
 import { useRouter } from "next/router";
 import { SWRConfig } from "swr";
@@ -57,10 +57,13 @@ export async function getStaticProps({ params }) {
 export async function getStaticPaths() {
   const posts = await getPost();
 
-  const paths = posts.map(({ slug, locale }) => ({
-    params: { slug: slug },
-    locale,
-  }));
+  const paths = posts.map((post) => {
+    return {
+      params: {
+        postId: post.id.toString(),
+      },
+    };
+  });
 
   return {
     paths,
