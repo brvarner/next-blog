@@ -39,7 +39,7 @@ function Article({ title, subtitle, image, content }) {
 }
 
 // Get static props is used to grab a specific post from the api on request.
-export async function getStaticProps({ params }) {
+export async function getServerSideProps({ params }) {
   const posts = await getPost(params.postId);
 
   return {
