@@ -1,6 +1,6 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 import { PopularPost } from "../posts";
-import Fetcher from "../../lib/Fetcher";
+import Fetcher from "../../lib/fetcher";
 import { Spinner, Error } from "../children";
 
 export default function MostPopular() {

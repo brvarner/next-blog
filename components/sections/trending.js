@@ -1,7 +1,7 @@
 import { TrendingPost } from "../posts";
 import { Swiper, SwiperSlide } from "swiper/react";
 import SwiperCore, { Autoplay } from "swiper";
-import Fetcher from "../../lib/Fetcher";
+import Fetcher from "../../lib/fetcher";
 import { Spinner, Error } from "../children";
 
 import "swiper/css";

@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import Fetcher from "../../lib/Fetcher";
+import Fetcher from "../../lib/fetcher";
 import { Spinner, Error } from "../children";
 
 // This function adds a little variety to the articles by matching them with one of

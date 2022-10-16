@@ -1,6 +1,6 @@
 import { PageContainer } from "../../containers";
 import getPost from "../../lib/helper";
-import Fetcher from "../../lib/Fetcher";
+import Fetcher from "../../lib/fetcher";
 import { Error, Spinner } from "../../components/children";
 import { useRouter } from "next/router";
 import { SWRConfig } from "swr";

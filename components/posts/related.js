@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { Author } from "../children";
-import Fetcher from "../../lib/Fetcher";
+import Fetcher from "../../lib/fetcher";
 import { Spinner, Error } from "../children";
 
 export default function RelatedPost() {
