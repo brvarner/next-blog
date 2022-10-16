@@ -57,13 +57,10 @@ export async function getStaticProps({ params }) {
 export async function getStaticPaths() {
   const posts = await getPost();
 
-  const paths = posts.map((post) => {
-    return {
-      params: {
-        postId: post.id.toString(),
-      },
-    };
-  });
+  const paths = posts.map(({ slug, locale }) => ({
+    params: { slug: slug },
+    locale,
+  }));
 
   return {
     paths,
