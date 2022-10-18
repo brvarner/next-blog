@@ -1,69 +1,69 @@
 export default {
-  Trending: [
+  "Trending": [
     {
-      id: "1",
-      title: "Why BUSINESS Is The Only Skill You Really Need",
-      subtitle:
+      "id": "1",
+      "title": "Why BUSINESS Is The Only Skill You Really Need",
+      "subtitle":
         "Tootsie roll danish I love apple pie dragée chocolate bar cupcake gummies fruitcake.",
-      category: "Business, Travel",
-      image: "/assets/images/img1.jpg",
-      published: "October 31, 2022",
-      content:
+      "category": "Business, Travel",
+      "image": "/assets/images/img1.jpg",
+      "published": "October 31, 2022",
+      "content":
         "Chocolate tootsie roll gummies lemon drops shortbread cake. Apple pie shortbread carrot cake chocolate bar jujubes caramels. Jelly-o apple pie oat cake tart bonbon sweet roll ice cream.",
     },
     {
-      id: "2",
-      title: "Could This Report Be The Definitive Answer To Your BUSINESS?",
-      subtitle:
+      "id": "2",
+      "title": "Could This Report Be The Definitive Answer To Your BUSINESS?",
+      "subtitle":
         "Tiramisu I love cotton candy chocolate cake I love I love ice cream gingerbread carrot cake.",
-      category: "Business, Travel",
-      image: "/assets/images/img2.jpg",
-      published: "October 31, 2022",
-      content:
+      "category": "Business, Travel",
+      "image": "/assets/images/img2.jpg",
+      "published": "October 31, 2022",
+      "content":
         "Sweet roll ice cream donut pie I love shortbread. Cheesecake I love cookie jelly pudding I love tart croissant. Sugar plum bonbon carrot cake jelly-o macaroon I love.",
     },
     {
-      id: "3",
-      title: "Answered: Your Most Burning Questions About BUSINESS",
-      subtitle: "Macaroon cotton candy ice cream I love I love.",
-      category: "Business, Travel",
-      image: "/assets/images/img3.png",
-      published: "October 31, 2022",
-      content:
+      "id": "3",
+      "title": "Answered: Your Most Burning Questions About BUSINESS",
+      "subtitle": "Macaroon cotton candy ice cream I love I love.",
+      "category": "Business, Travel",
+      "image": "/assets/images/img3.png",
+      "published": "October 31, 2022",
+      "content":
         "Gingerbread dragée jujubes candy jujubes dessert liquorice icing. Tiramisu pudding cheesecake sweet roll tart fruitcake. Sweet roll biscuit bonbon chocolate bar muffin dessert candy canes chocolate I love.",
     },
     {
-      id: "4",
-      title: "Can You Really Find BUSINESS (on the Web)?",
-      subtitle: "Gummi bears I love sweet roll croissant cookie cupcake tart.",
-      category: "Business, Travel",
-      image: "/assets/images/img4.png",
-      published: "October 31, 2022",
-      content:
+      "id": "4",
+      "title": "Can You Really Find BUSINESS (on the Web)?",
+      "subtitle": "Gummi bears I love sweet roll croissant cookie cupcake tart.",
+      "category": "Business, Travel",
+      "image": "/assets/images/img4.png",
+      "published": "October 31, 2022",
+      "content":
         "I love cake cake I love soufflé. Powder I love sweet roll jelly-o croissant cake gummies liquorice. Halvah pudding powder topping topping liquorice I love candy fruitcake. Pudding donut I love fruitcake dessert sweet sugar plum bear claw sesame snaps.",
     },
     {
-      id: "5",
-      title: "Read This Controversial Article And Find Out More About BUSINESS",
-      subtitle:
+      "id": "5",
+      "title": "Read This Controversial Article And Find Out More About BUSINESS",
+      "subtitle":
         "Tootsie roll sweet croissant danish croissant jelly cupcake brownie I love.",
-      category: "Business, Travel",
-      image: "/assets/images/img5.png",
-      published: "October 31, 2022",
-      content:
+      "category": "Business, Travel",
+      "image": "/assets/images/img5.png",
+      "published": "October 31, 2022",
+      "content":
         "I love dessert caramels cookie icing. Shortbread marshmallow ice cream lemon drops I love donut halvah. Cupcake I love I love macaroon tart dragée. Brownie ice cream croissant fruitcake cake biscuit biscuit chupa chups.",
     },
   ],
-  Posts: [
+  "Posts": [
     {
-      id: "1",
-      title: "Why BUSINESS Is The Only Skill You Really Need",
-      subtitle:
+      "id": "1",
+      "title": "Why BUSINESS Is The Only Skill You Really Need",
+      "subtitle":
         "Tootsie roll danish I love apple pie dragée chocolate bar cupcake gummies fruitcake.",
-      category: "Business, Travel",
-      image: "/assets/images/articles/posts/img1.jpg",
-      published: "October 31, 2022",
-      content: `
+      "category": "Business, Travel",
+      "image": "/assets/images/articles/posts/img1.jpg",
+      "published": "October 31, 2022",
+      "content": `
         Lollipop I love donut jelly-o sweet apple pie dragée brownie oat cake. Marzipan biscuit powder I love jelly-o. Cake gummies cake topping powder jujubes chocolate bar croissant ice cream. Caramels pudding cupcake liquorice bonbon marzipan.
 
 Chocolate bar lemon drops soufflé fruitcake cotton candy wafer topping powder lollipop. I love cotton candy gummies cotton candy chocolate cake I love. Apple pie sweet oat cake pastry marshmallow. Dessert I love macaroon donut I love I love chupa chups icing I love.
@@ -79,14 +79,14 @@ Lollipop topping I love dragée cake. Gummies I love marzipan caramels marshmall
 Cheesecake carrot cake sweet roll topping halvah gingerbread candy. Croissant jelly beans shortbread dessert marzipan. Shortbread I love halvah apple pie gummi bears oat cake sugar plum chupa chups. Tootsie roll candy canes chocolate jelly beans liquorice I love wafer chocolate cake bonbon.`,
     },
     {
-      id: "2",
-      title: "Could This Report Be The Definitive Answer To Your BUSINESS?",
-      subtitle:
+      "id": "2",
+      "title": "Could This Report Be The Definitive Answer To Your BUSINESS?",
+      "subtitle":
         "Tiramisu I love cotton candy chocolate cake I love I love ice cream gingerbread carrot cake.",
-      category: "Business, Travel",
-      image: "/assets/images/articles/posts/img2.png",
-      published: "October 31, 2022",
-      content: `Lemon drops gummies icing jelly-o lemon drops. Muffin soufflé apple pie gummies candy canes cheesecake chocolate cake icing shortbread. Halvah lemon drops cake dessert bonbon. Marshmallow pastry sesame snaps brownie jelly-o lollipop I love gummies dragée.
+      "category": "Business, Travel",
+      "image": "/assets/images/articles/posts/img2.png",
+      "published": "October 31, 2022",
+      "content": `Lemon drops gummies icing jelly-o lemon drops. Muffin soufflé apple pie gummies candy canes cheesecake chocolate cake icing shortbread. Halvah lemon drops cake dessert bonbon. Marshmallow pastry sesame snaps brownie jelly-o lollipop I love gummies dragée.
         
       Muffin pie cake pie cupcake. Toffee topping I love tiramisu donut. Jujubes wafer muffin caramels marzipan cookie sweet donut.
         
@@ -101,13 +101,13 @@ Cheesecake carrot cake sweet roll topping halvah gingerbread candy. Croissant je
       Soufflé pie cupcake pudding shortbread danish. Apple pie chocolate cake wafer I love toffee. Dessert wafer icing liquorice lemon drops icing biscuit cupcake marzipan. Tiramisu I love gummi bears ice cream pastry halvah soufflé macaroon.`,
     },
     {
-      id: "3",
-      title: "Answered: Your Most Burning Questions About BUSINESS",
-      subtitle: "Macaroon cotton candy ice cream I love I love.",
-      category: "Business, Travel",
-      image: "/assets/images/articles/posts/img3.png",
-      published: "October 31, 2022",
-      content: `Cheesecake halvah sesame snaps tart sugar plum. Jelly-o I love wafer ice cream dragée pie. Oat cake jelly caramels halvah cake jujubes cookie marzipan toffee.
+      "id": "3",
+      "title": "Answered: Your Most Burning Questions About BUSINESS",
+      "subtitle": "Macaroon cotton candy ice cream I love I love.",
+      "category": "Business, Travel",
+      "image": "/assets/images/articles/posts/img3.png",
+      "published": "October 31, 2022",
+      "content": `Cheesecake halvah sesame snaps tart sugar plum. Jelly-o I love wafer ice cream dragée pie. Oat cake jelly caramels halvah cake jujubes cookie marzipan toffee.
         
         Bonbon I love lemon drops marshmallow I love sweet ice cream. Liquorice candy caramels liquorice fruitcake marzipan. Pie icing fruitcake cake donut donut.
         
@@ -122,13 +122,13 @@ Cheesecake carrot cake sweet roll topping halvah gingerbread candy. Croissant je
         Icing marzipan dessert bear claw topping candy jelly beans sesame snaps chupa chups. I love chupa chups candy canes shortbread pudding lemon drops jelly beans. Dessert bonbon I love sesame snaps I love jelly toffee pudding gummi bears. Biscuit brownie caramels donut ice cream topping.`,
     },
     {
-      id: "4",
-      title: "Can You Really Find BUSINESS (on the Web)?",
-      subtitle: "Gummi bears I love sweet roll croissant cookie cupcake tart.",
-      category: "Business, Travel",
-      image: "/assets/images/articles/posts/img4.png",
-      published: "October 31, 2022",
-      content: `Jelly beans tart gummi bears cake cotton candy. Gummies candy canes icing I love sugar plum I love marzipan. Wafer gummies chocolate bar topping sweet roll.
+      "id": "4",
+      "title": "Can You Really Find BUSINESS (on the Web)?",
+      "subtitle": "Gummi bears I love sweet roll croissant cookie cupcake tart.",
+      "category": "Business, Travel",
+      "image": "/assets/images/articles/posts/img4.png",
+      "published": "October 31, 2022",
+      "content": `Jelly beans tart gummi bears cake cotton candy. Gummies candy canes icing I love sugar plum I love marzipan. Wafer gummies chocolate bar topping sweet roll.
         
         Donut I love croissant apple pie jujubes sesame snaps I love. Danish soufflé caramels sweet roll marzipan lemon drops ice cream gummi bears. Caramels I love jelly-o dessert halvah marshmallow caramels danish tootsie roll.
         
@@ -143,14 +143,14 @@ Cheesecake carrot cake sweet roll topping halvah gingerbread candy. Croissant je
         Icing pudding soufflé I love liquorice tootsie roll biscuit. Sugar plum cheesecake I love cake marzipan. Gummi bears jelly beans I love gummies jelly beans cake marzipan. Chupa chups pastry cake danish sugar plum lemon drops muffin.`,
     },
     {
-      id: "5",
-      title: "Read This Controversial Article And Find Out More About BUSINESS",
-      subtitle:
+      "id": "5",
+      "title": "Read This Controversial Article And Find Out More About BUSINESS",
+      "subtitle":
         "Tootsie roll sweet croissant danish croissant jelly cupcake brownie I love.",
-      category: "Business, Travel",
-      image: "/assets/images/articles/posts/img5.png",
-      published: "October 31, 2022",
-      content: `Topping caramels icing pie chocolate cake soufflé cotton candy marzipan. Jelly jujubes I love pastry donut jujubes dragée bonbon. Ice cream cake gummies tootsie roll lollipop wafer. Lemon drops caramels jelly topping I love I love I love.
+      "category": "Business, Travel",
+      "image": "/assets/images/articles/posts/img5.png",
+      "published": "October 31, 2022",
+      "content": `Topping caramels icing pie chocolate cake soufflé cotton candy marzipan. Jelly jujubes I love pastry donut jujubes dragée bonbon. Ice cream cake gummies tootsie roll lollipop wafer. Lemon drops caramels jelly topping I love I love I love.
        
        Candy chocolate bar sesame snaps jelly I love dragée sesame snaps chocolate bar jujubes. Cheesecake jelly beans cheesecake sweet jelly-o. I love sweet chupa chups cake jujubes. Tiramisu cake candy canes shortbread candy canes gummies sugar plum.
        
@@ -165,14 +165,14 @@ Cheesecake carrot cake sweet roll topping halvah gingerbread candy. Croissant je
        Chupa chups muffin fruitcake sweet roll halvah chupa chups sugar plum dragée. Lollipop tart gummi bears marzipan chupa chups cheesecake. Chocolate dessert gingerbread sugar plum I love cake cake I love jelly beans. Caramels pie bear claw cheesecake topping cake lollipop.`,
     },
     {
-      id: "6",
-      title: "How To Make Your Product Stand Out With BUSINESS",
-      subtitle:
+      "id": "6",
+      "title": "How To Make Your Product Stand Out With BUSINESS",
+      "subtitle":
         "Muffin carrot cake dragée lemon drops I love gummi bears soufflé powder.",
-      category: "Business, Travel",
-      image: "/assets/images/articles/posts/img5.png",
-      published: "October 31, 2022",
-      content: `Pastry cake shortbread toffee carrot cake halvah I love toffee. Gingerbread marshmallow gingerbread caramels tiramisu toffee jelly beans powder lollipop. I love topping macaroon I love I love. Wafer pastry caramels pudding caramels cheesecake toffee.
+      "category": "Business, Travel",
+      "image": "/assets/images/articles/posts/img5.png",
+      "published": "October 31, 2022",
+      "content": `Pastry cake shortbread toffee carrot cake halvah I love toffee. Gingerbread marshmallow gingerbread caramels tiramisu toffee jelly beans powder lollipop. I love topping macaroon I love I love. Wafer pastry caramels pudding caramels cheesecake toffee.
       
       I love gingerbread lemon drops carrot cake danish biscuit marzipan. Croissant sesame snaps lemon drops chupa chups cheesecake icing cheesecake. Jujubes biscuit jelly toffee sweet roll biscuit jelly. I love icing sweet candy cupcake croissant.
       
@@ -187,54 +187,54 @@ Cheesecake carrot cake sweet roll topping halvah gingerbread candy. Croissant je
       Powder shortbread I love marzipan tart. Tiramisu muffin topping lollipop soufflé sesame snaps. Cupcake soufflé brownie carrot cake topping brownie I love.`,
     },
   ],
-  Popular: [
+  "Popular": [
     {
-      id: "1",
-      title: "Why BUSINESS Is The Only Skill You Really Need",
-      subtitle:
+      "id": "1",
+      "title": "Why BUSINESS Is The Only Skill You Really Need",
+      "subtitle":
         "Tootsie roll danish I love apple pie dragée chocolate bar cupcake gummies fruitcake.",
-      category: "Business, Travel",
-      image: "/assets/images/articles/img1.jpg",
-      published: "October 31, 2022",
-      content: `Croissant powder I love chupa chups cookie ice cream jelly-o brownie carrot cake.`,
+      "category": "Business, Travel",
+      "image": "/assets/images/articles/img1.jpg",
+      "published": "October 31, 2022",
+      "content": `Croissant powder I love chupa chups cookie ice cream jelly-o brownie carrot cake.`,
     },
     {
-      id: "2",
-      title: "Could This Report Be The Definitive Answer To Your BUSINESS?",
-      subtitle:
+      "id": "2",
+      "title": "Could This Report Be The Definitive Answer To Your BUSINESS?",
+      "subtitle":
         "Tiramisu I love cotton candy chocolate cake I love I love ice cream gingerbread carrot cake.",
-      category: "Business, Travel",
-      image: "/assets/images/articles/img2.jpg",
-      published: "October 31, 2022",
-      content: `I love apple pie chocolate cake powder bonbon.`,
+      "category": "Business, Travel",
+      "image": "/assets/images/articles/img2.jpg",
+      "published": "October 31, 2022",
+      "content": `I love apple pie chocolate cake powder bonbon.`,
     },
     {
-      id: "3",
-      title: "Answered: Your Most Burning Questions About BUSINESS",
-      subtitle: "Macaroon cotton candy ice cream I love I love.",
-      category: "Business, Travel",
-      image: "/assets/images/articles/img3.jpg",
-      published: "October 31, 2022",
-      content: `Macaroon sesame snaps dragée pudding croissant cotton candy sweet.`,
+      "id": "3",
+      "title": "Answered: Your Most Burning Questions About BUSINESS",
+      "subtitle": "Macaroon cotton candy ice cream I love I love.",
+      "category": "Business, Travel",
+      "image": "/assets/images/articles/img3.jpg",
+      "published": "October 31, 2022",
+      "content": `Macaroon sesame snaps dragée pudding croissant cotton candy sweet.`,
     },
     {
-      id: "4",
-      title: "Can You Really Find BUSINESS (on the Web)?",
-      subtitle: "Gummi bears I love sweet roll croissant cookie cupcake tart.",
-      category: "Business, Travel",
-      image: "/assets/images/articles/img4.png",
-      published: "October 31, 2022",
-      content: `Lemon drops muffin chocolate bar pastry halvah cheesecake sesame snaps I love.`,
+      "id": "4",
+      "title": "Can You Really Find BUSINESS (on the Web)?",
+      "subtitle": "Gummi bears I love sweet roll croissant cookie cupcake tart.",
+      "category": "Business, Travel",
+      "image": "/assets/images/articles/img4.png",
+      "published": "October 31, 2022",
+      "content": `Lemon drops muffin chocolate bar pastry halvah cheesecake sesame snaps I love.`,
     },
     {
-      id: "5",
-      title: "Read This Controversial Article And Find Out More About BUSINESS",
-      subtitle:
+      "id": "5",
+      "title": "Read This Controversial Article And Find Out More About BUSINESS",
+      "subtitle":
         "Tootsie roll sweet croissant danish croissant jelly cupcake brownie I love.",
-      category: "Business, Travel",
-      image: "/assets/images/articles/img5.png",
-      published: "October 31, 2022",
-      content: `Pastry candy halvah jelly chocolate chocolate.`,
+      "category": "Business, Travel",
+      "image": "/assets/images/articles/img5.png",
+      "published": "October 31, 2022",
+      "content": `Pastry candy halvah jelly chocolate chocolate.`,
     },
   ],
 };
