@@ -1,4 +1,4 @@
-import data from "./data";
+import data from "./data.json";
 
 export default function Handler(req, res) {
   const { Trending } = data;
