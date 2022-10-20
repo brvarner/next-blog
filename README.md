@@ -9,3 +9,5 @@ To run this project, you can see it on Vercel here: https://next-blog-delta-woad
 OR
 
 Clone this project and type "npm run dev" or "yarn dev" into your terminal from the project folder.
+
+![image](https://user-images.githubusercontent.com/84243251/197032720-355be7e6-4bc7-457d-a7b8-d129f30c0def.png)
